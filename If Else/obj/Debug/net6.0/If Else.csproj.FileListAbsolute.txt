@@ -1,0 +1,15 @@
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\bin\Debug\net6.0\If Else.exe
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\bin\Debug\net6.0\If Else.deps.json
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\bin\Debug\net6.0\If Else.runtimeconfig.json
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\bin\Debug\net6.0\If Else.dll
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\bin\Debug\net6.0\If Else.pdb
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\If Else.csproj.AssemblyReference.cache
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\If Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\If Else.AssemblyInfoInputs.cache
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\If Else.AssemblyInfo.cs
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\If Else.csproj.CoreCompileInputs.cache
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\If Else.dll
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\refint\If Else.dll
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\If Else.pdb
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\If Else.genruntimeconfig.cache
+C:\Users\Justin Martin\Desktop\Repos\If Else\If Else\obj\Debug\net6.0\ref\If Else.dll
